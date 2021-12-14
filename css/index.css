@@ -1,0 +1,59 @@
+
+html, body{
+    background-color: rgb(226, 77, 122);
+}
+html{
+    margin-bottom: 0;
+    
+}
+body{
+    /* width: 70%; */
+    margin: 0 auto;
+    text-align: center;
+}
+
+.navbar{
+    background-color: white;
+    padding-bottom: 20px;
+    height: 80px;
+}
+
+.navbar div{
+    font-size: 35px;
+    font-weight: bold;
+    padding-top: 10px;
+    
+}
+#my_name{
+    float: left;
+    margin-left: 1px;
+    font-size: 20px;
+    border: 5px solid black;
+}
+#nav-menu{
+    float: left;
+
+}
+#nav-menu a{
+    text-decoration: none;
+    border: 1px solid black;
+    color: white;
+    background-color: rgb(143, 5, 5);
+    padding: 6px 10px;
+    margin-left: 20px; 
+  
+
+}
+#Valorant{
+    margin-top: 10px;
+}
+
+.footer{
+    background-color: black !important;
+    margin-bottom: 0;
+    height: 80px;
+    padding-top: 10px;
+}
+.footer p{
+    color: white;
+}
